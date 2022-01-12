@@ -5,7 +5,7 @@
 [![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/FuckLocation)
 [![GitHub license](https://img.shields.io/github/license/Xposed-Modules-Repo/fuck.location)](https://github.com/Xposed-Modules-Repo/fuck.location/blob/main/LICENSE)
 
-An simple xposed module that helps you fully control your location.
+A simple xposed module that helps you fully control your location.
 
 一个可以帮助你完全控制位置授权的模块
 
