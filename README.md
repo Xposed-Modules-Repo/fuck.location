@@ -23,6 +23,7 @@ Targeted in Android 11 - 12. Previous versions won't work, so don't insist.
 适配 Android 11 及 12。以前的版本暂时用不了，别试了
 
 ## Usage / 使用方法
+⚠️ This module require root to sync your settings. Grant the permission if asked. 该模块需要 root 权限来同步设置。如果你看到授权请求，请同意。
 1. Download & activate this module, then restart. 下载并激活该模块，并重启手机
 
 2. Select applications that you want to take ownership. 选择你想要接管权限的应用
