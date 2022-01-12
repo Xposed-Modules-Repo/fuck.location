@@ -34,4 +34,4 @@ Targeted in Android 11 - 12. Previous versions won't work, so don't insist.
 4. That's all. No reboot required. 完成。不需要重启，实时生效。
 
 ## Scope / 作用域
-You should only select Android Framework. 你只应选择 Android 框架作为作用域。
+You should only select Android Framework. 你只应选择 Android 框架。
