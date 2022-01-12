@@ -18,9 +18,9 @@ This module is still in early developement stage. No guarantee whether it will w
 
 该模块处于早期开发阶段。不保证它一定按预期工作。
 
-Targeted in Android 11 - 12. Previous versions won't work, so don't insist.
+Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are supported only in theory.
 
-适配 Android 11 及 12。以前的版本暂时用不了，别试了
+适配 Android 11 及 12。以前的版本（如 Android 10 或 9）仅仅制作了理论上（即未经真机测试）的支持。
 
 ## Usage / 使用方法
 > ⚠️ This module require root to sync your settings. Grant the permission if asked. 该模块需要 root 权限来同步设置。如果你看到授权请求，请同意。
