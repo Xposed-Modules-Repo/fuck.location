@@ -1,4 +1,9 @@
 # FuckLocation
+[![Stars](https://img.shields.io/github/stars/Mikotwa/FuckLocation?label=Stars)](https://github.com/Mikotwa)
+[![Release](https://img.shields.io/github/v/release/Mikotwa/FuckLocation?label=Release)](https://github.com/Mikotwa/FuckLocation/releases/latest)
+[![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/fuck.location/total)](https://github.com/Xposed-Modules-Repo/fuck.location/releases/latest)
+[![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/FuckLocation)
+[![License](https://img.shields.io/github/license/Mikotwa/FuckLocation?label=License)](https://choosealicense.com/licenses/gpl-3.0/)
 An simple xposed module that helps you fully control your location.
 
 一个可以帮助你完全控制位置授权的模块
