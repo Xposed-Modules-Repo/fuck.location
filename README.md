@@ -18,9 +18,9 @@ This module is still in early developement stage. No guarantee whether it will w
 
 该模块处于早期开发阶段。不保证它一定按预期工作。
 
-Targeted in Android 12. Previous versions may also work.
+Targeted in Android 12. Previous versions won't work, so don't insist.
 
-适配 Android 12。以前的版本也许也能用。
+适配 Android 12。以前的版本暂时用不了，别试了
 
 ## Usage / 使用方法
 1. Download & activate this module, then restart. 下载并激活该模块，并重启手机
