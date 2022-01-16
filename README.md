@@ -22,6 +22,10 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 
 适配 Android 11 及 12。以前的版本（如 Android 10 或 9）仅仅制作了理论上（即未经真机测试）的支持。
 
+## What's working / 目前已经实现
+- Custom WiFi information
+- Custom location provider (like GPS) information
+
 ## Usage / 使用方法
 > ⚠️ This module require root to sync your settings. Grant the permission if asked. 该模块需要 root 权限来同步设置。如果你看到授权请求，请同意。
 
