@@ -24,7 +24,7 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 
 ## What's working / 目前已经实现
 - Custom WiFi information (only in Android 11+) / 自定义 WiFi 信息（仅 Android 11+）
-- Custom celler tower information (only in Android 11+) / 自定义基站信息（仅 Android 11+）
+- Custom cell tower information (only in Android 11+) / 自定义基站信息（仅 Android 11+）
 - Custom location provider (like GPS) information / 自定义基于 LocationProvider 返回的位置信息（如 GPS）
 
 ## Usage / 使用方法
