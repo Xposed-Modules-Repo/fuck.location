@@ -27,6 +27,13 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 - Custom cell tower information (over LTE, only in Android 11+) / 自定义基站信息（LTE 网络制式，仅 Android 11+）
 - Custom location provider (like GPS) information / 自定义基于 LocationProvider 返回的位置信息（如 GPS）
 
+## Plan / 待实现
+> ⚠️ DO NOT urge any features that are listed below. They will coming soon in future. / 请**不要**催更下面的特性。它们将在合适的时间到来
+- [ ] Better app selection page (Search, Organized by alphabets...) / 更好的应用选择页面（搜索、按字母排序...）
+- [ ] Implement test settings page / 实现设置测试
+- [ ] Fix issues that some apps still not working / 修复部分应用仍不能用的问题
+
+
 ## Usage / 使用方法
 > ⚠️ This module require root to sync your settings. Grant the permission if asked. 该模块需要 root 权限来同步设置。如果你看到授权请求，请同意。
 
