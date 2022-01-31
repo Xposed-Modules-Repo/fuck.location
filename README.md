@@ -35,7 +35,6 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 - [ ] Support custom values of cell tower, WiFi, etc. / 支持自定义基站、WiFi 的返回值
 - [ ] Support individual settings for apps. / 支持对应用单独进行设置
 
-
 ## Usage / 使用方法
 > ⚠️ This module require root to sync your settings. Grant the permission if asked. 该模块需要 root 权限来同步设置。如果你看到授权请求，请同意。
 
@@ -47,5 +46,17 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 
 4. That's all. No reboot required. 完成。不需要重启，实时生效。
 
+## Q & A / 常见疑问解答
+> Will this module implement mock location? / 该模块是否会适配模拟位置信息？
+No. It is too easy to be detected. / 不会。它太容易被检测到了。
+
+> Something went run on my (Fuck Location) side! / Fuck Location 有问题！
+Please report this issue with **detailed** logs. / 请携带**详尽**日志文件发 issue。
+
 ## Scope / 作用域
-You should only select Android Framework. 你只应选择 Android 框架。
+You should only select / 你只应选择：
+- Android (android)
+- Telephone (com.android.phone)
+
+Choose anything other than that would not bring you any benefits.
+选择不是上述的两个应用不会给你带来额外的好处。
