@@ -29,7 +29,7 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 
 ## Plan / 待实现
 > ⚠️ DO NOT urge any features that are listed below. They will coming soon in future. / 请**不要**催更下面的特性。它们将在合适的时间到来
-- [ ] Remove root requirement / 移除对 root 权限的需求
+- [*] ~~Remove root requirement / 移除对 root 权限的需求~~
 - [ ] Better app selection page (Search, Organized by alphabets...) / 更好的应用选择页面（搜索、按字母排序...）
 - [ ] Implement test settings page / 实现设置测试
 - [ ] Fix issues that some apps still not working / 修复部分应用仍不能用的问题
@@ -37,8 +37,6 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 - [ ] Support individual settings for apps / 支持对应用单独进行设置
 
 ## Usage / 使用方法
-> ⚠️ This module require root to sync your settings. Grant the permission if asked. 该模块需要 root 权限来同步设置。如果你看到授权请求，请同意。
-
 1. Download & activate this module, then restart. 下载并激活该模块，并重启手机
 
 2. Select applications that you want to take ownership. 选择你想要接管权限的应用
