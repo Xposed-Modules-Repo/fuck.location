@@ -57,7 +57,7 @@ Please report this issue with **detailed** logs. / 请携带**详尽**日志文�
 ## Scope / 作用域
 You should only select / 你只应选择：
 - Android (android)
-- Telephone (com.android.phone)
+- Phone (com.android.phone)
 
-Choose anything other than that would not bring you any benefits.
+Choose anything other than that would not bring you any extra benefits.
 选择不是上述的两个应用不会给你带来额外的好处。
