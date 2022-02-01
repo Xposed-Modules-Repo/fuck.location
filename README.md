@@ -4,6 +4,7 @@
 [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/fuck.location/total)](https://github.com/Xposed-Modules-Repo/fuck.location/releases/latest)
 [![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/FuckLocation)
 [![GitHub license](https://img.shields.io/github/license/Xposed-Modules-Repo/fuck.location)](https://github.com/Xposed-Modules-Repo/fuck.location/blob/main/LICENSE)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Mikotwa/FuckLocation/Fuck%20Location%20CI%20Build?label=%F0%9F%9A%80%20CI%20Build&logo=Fuck%20Location)
 
 A simple xposed module that helps you fully control your location.
 
