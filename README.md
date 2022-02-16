@@ -44,7 +44,7 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 
 2. Select applications that you want to take ownership. 选择你想要接管权限的应用
 
-3. Customize the longtitude & latitude you want to return to these apps. 设置你想要给这些应用返回的自定义经纬度
+3. Customize the information you want to return to these apps. 设置你想要给这些应用返回的自定义信息
 
 4. That's all. No reboot required. 完成。不需要重启，实时生效。
 
