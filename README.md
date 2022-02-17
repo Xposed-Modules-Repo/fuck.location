@@ -53,6 +53,10 @@ Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are suppo
 
 No. It is too easy to be detected. / 不会。它太容易被检测到了。
 
+> About cell tower information? / 关于基站信息？
+
+Do NOT ask us. Find for yourself or leave it empty. / 请不要问。有能力自己找，没能力留空。
+
 > Something went wrong on *Fuck Location* side! / Fuck Location 有问题！
 
 Please report this issue with **detailed** logs. / 请携带**详尽**日志文件发 issue。
