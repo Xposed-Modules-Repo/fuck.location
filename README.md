@@ -57,7 +57,7 @@ Look at your log. If anything related to:
 
 appears, please deactivate all your module (except Fuck Location) temporary and reboot your phone to see if it works.
 
-If it works, then something goes wrong on *your* side. Check if any incapable modules activated.
+If it works, then something went wrong on *your* side. Check if any incapable modules were activated.
 
 If it still not work, file an issue.
 
@@ -67,9 +67,9 @@ If it still not work, file an issue.
 
 的字样，请先临时禁用除 Fuck Location 以外的模块，并重启手机。
 
-如果它工作，问题出在*你*这里。请检查所有潜在的不兼容的模块。
+如果它能正常运行，问题出在*你*这里。请检查所有潜在的不兼容的模块。
 
-如果依然无法工作，请发 issue。
+如果依然出现崩溃问题，请发 issue。
 
 > Will this module implement mock location? / 该模块是否会适配模拟位置信息？
 
