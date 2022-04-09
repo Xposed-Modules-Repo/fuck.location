@@ -49,6 +49,28 @@ Targeted in Android 12. Previous versions (like Android 11, 10 and 9) are suppor
 4. That's all. No reboot required. 完成。不需要重启，实时生效。
 
 ## Q & A / 常见疑问解答
+> After reboot, this module still crash unexpectedly. / 在重启后，模块依然意外闪退。
+
+Look at your log. If anything related to:
+
+*Crash unexpectedly: java.lang.NoClassDefFoundError*
+
+appears, please deactivate all your module (except Fuck Location) temporary and reboot your phone to see if it works.
+
+If it works, then something goes wrong on *your* side. Check if any incapable modules activated.
+
+If it still not work, file an issue.
+
+请查看你的日志。如果有任何类似于：
+
+*Crash unexpectedly: java.lang.NoClassDefFoundError*
+
+的字样，请先临时禁用除 Fuck Location 以外的模块，并重启手机。
+
+如果它工作，问题出在*你*这里。请检查所有潜在的不兼容的模块。
+
+如果依然无法工作，请发 issue。
+
 > Will this module implement mock location? / 该模块是否会适配模拟位置信息？
 
 No. It is too easy to be detected. / 不会。它太容易被检测到了。
