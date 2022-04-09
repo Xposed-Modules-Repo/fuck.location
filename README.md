@@ -19,7 +19,7 @@ This module is still in early developement stage. No guarantee whether it will w
 
 该模块处于早期开发阶段。不保证它一定按预期工作。
 
-Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are supported only in theory.
+Targeted in Android 12. Previous versions (like Android 11, 10 and 9) are supported only in theory.
 
 适配 Android 12。以前的版本（如 Android 11、10 或 9）仅仅制作了理论上（即未经真机测试）的支持。
 
