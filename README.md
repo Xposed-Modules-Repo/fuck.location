@@ -21,7 +21,7 @@ This module is still in early developement stage. No guarantee whether it will w
 
 Targeted in Android 11 - 12. Previous versions (like Android 10 and 9) are supported only in theory.
 
-适配 Android 11 及 12。以前的版本（如 Android 10 或 9）仅仅制作了理论上（即未经真机测试）的支持。
+适配 Android 12。以前的版本（如 Android 11、10 或 9）仅仅制作了理论上（即未经真机测试）的支持。
 
 ## What's working / 目前已经实现
 - Custom WiFi information / 自定义 WiFi 信息
